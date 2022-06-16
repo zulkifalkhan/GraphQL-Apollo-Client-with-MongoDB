@@ -1,0 +1,3 @@
+//query to fetch data
+
+//to add data we use the concept of mutation
